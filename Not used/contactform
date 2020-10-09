@@ -1,0 +1,41 @@
+<!--contact-form-->
+    <section id="contact-form">
+        <form>
+            <!--left-->
+            <div class="contact-left">
+                <!--heading-->
+                <h1 class="c-l-heading"><font style="border-bottom: 3px solid #1ed98b;">Write Us</font></h1>
+                <!--form-name-->
+                <div class="f-name">
+                    <font>Name</font>
+                    <!--input-->
+                    <input type="text" placeholder="Full Name">
+
+                </div>
+                <!--form-email-->
+                <div class="f-email">
+                    
+                    <font>Email</font>
+                    <!--input-->
+                    <input type="email" placeholder="Example@hmail.com">
+
+                </div>
+
+            </div>
+            <!--right-->
+            <div class="contact-right">
+                <!--message-->
+                <div class="message">
+                    <font>Message</font>
+                    <textarea name="message" row="5" cols="20" placeholder="Write Message..."></textarea>
+                </div>
+                  <!--submit-->
+                  <button>
+                    Submit
+                </button>
+
+
+            </div>
+
+        </form>
+    </section>
